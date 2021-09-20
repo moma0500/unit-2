@@ -1,5 +1,4 @@
 /* required styles */
-#mapid { height: 180px; }
 
 .leaflet-pane,
 .leaflet-tile,
@@ -533,7 +532,7 @@ svg.leaflet-image-layer.leaflet-interactive path {
 	}
 
 .leaflet-oldie .leaflet-popup-content-wrapper {
-	-ms-zoom: 1;
+	zoom: 1;
 	}
 .leaflet-oldie .leaflet-popup-tip {
 	width: 24px;

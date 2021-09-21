@@ -1,0 +1,5171 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9817276,40.74950027 ]
+    },
+    "properties": {
+    "FIELD1":1457636,
+    "pickup_datetime":"2016/2/27 20:13",
+    "dropoff_datetime":"2016/2/27 20:24",
+    "passenger_count":1,
+    "trip_duration":692
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97908783,40.77160645 ]
+    },
+    "properties": {
+    "FIELD1":615369,
+    "pickup_datetime":"2016/6/4 9:54",
+    "dropoff_datetime":"2016/6/4 10:10",
+    "passenger_count":1,
+    "trip_duration":990
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98970032,40.73865128 ]
+    },
+    "properties": {
+    "FIELD1":491096,
+    "pickup_datetime":"2016/5/6 17:40",
+    "dropoff_datetime":"2016/5/6 17:50",
+    "passenger_count":1,
+    "trip_duration":647
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98844147,40.7232666 ]
+    },
+    "properties": {
+    "FIELD1":82632,
+    "pickup_datetime":"2016/5/30 19:20",
+    "dropoff_datetime":"2016/5/30 19:25",
+    "passenger_count":1,
+    "trip_duration":278
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98573303,40.75259781 ]
+    },
+    "properties": {
+    "FIELD1":71403,
+    "pickup_datetime":"2016/1/19 14:19",
+    "dropoff_datetime":"2016/1/19 14:34",
+    "passenger_count":2,
+    "trip_duration":881
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00892639,40.71886063 ]
+    },
+    "properties": {
+    "FIELD1":402280,
+    "pickup_datetime":"2016/1/31 18:22",
+    "dropoff_datetime":"2016/1/31 18:39",
+    "passenger_count":1,
+    "trip_duration":1017
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98570251,40.72319031 ]
+    },
+    "properties": {
+    "FIELD1":616615,
+    "pickup_datetime":"2016/6/6 8:56",
+    "dropoff_datetime":"2016/6/6 9:36",
+    "passenger_count":5,
+    "trip_duration":2408
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94773102,40.77514267 ]
+    },
+    "properties": {
+    "FIELD1":1378999,
+    "pickup_datetime":"2016/4/15 7:04",
+    "dropoff_datetime":"2016/4/15 7:14",
+    "passenger_count":5,
+    "trip_duration":603
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96774292,40.78746414 ]
+    },
+    "properties": {
+    "FIELD1":1387210,
+    "pickup_datetime":"2016/4/27 7:26",
+    "dropoff_datetime":"2016/4/27 7:35",
+    "passenger_count":1,
+    "trip_duration":511
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87301636,40.77412415 ]
+    },
+    "properties": {
+    "FIELD1":1345286,
+    "pickup_datetime":"2016/3/10 15:26",
+    "dropoff_datetime":"2016/3/10 15:57",
+    "passenger_count":2,
+    "trip_duration":1863
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97155762,40.75469589 ]
+    },
+    "properties": {
+    "FIELD1":463234,
+    "pickup_datetime":"2016/1/13 21:02",
+    "dropoff_datetime":"2016/1/13 21:11",
+    "passenger_count":1,
+    "trip_duration":518
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98177338,40.76519012 ]
+    },
+    "properties": {
+    "FIELD1":978831,
+    "pickup_datetime":"2016/1/5 8:48",
+    "dropoff_datetime":"2016/1/5 8:52",
+    "passenger_count":1,
+    "trip_duration":222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0056076,40.74071121 ]
+    },
+    "properties": {
+    "FIELD1":1390308,
+    "pickup_datetime":"2016/1/10 2:26",
+    "dropoff_datetime":"2016/1/10 2:33",
+    "passenger_count":1,
+    "trip_duration":378
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99869537,40.73213577 ]
+    },
+    "properties": {
+    "FIELD1":622464,
+    "pickup_datetime":"2016/1/31 15:00",
+    "dropoff_datetime":"2016/1/31 15:08",
+    "passenger_count":5,
+    "trip_duration":502
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99142456,40.72715378 ]
+    },
+    "properties": {
+    "FIELD1":456910,
+    "pickup_datetime":"2016/5/8 1:02",
+    "dropoff_datetime":"2016/5/8 1:23",
+    "passenger_count":2,
+    "trip_duration":1225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9822464,40.77972031 ]
+    },
+    "properties": {
+    "FIELD1":1232689,
+    "pickup_datetime":"2016/6/19 19:44",
+    "dropoff_datetime":"2016/6/19 19:52",
+    "passenger_count":1,
+    "trip_duration":506
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97769165,40.75297165 ]
+    },
+    "properties": {
+    "FIELD1":929445,
+    "pickup_datetime":"2016/5/31 19:20",
+    "dropoff_datetime":"2016/5/31 19:43",
+    "passenger_count":1,
+    "trip_duration":1358
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98931885,40.76245117 ]
+    },
+    "properties": {
+    "FIELD1":949251,
+    "pickup_datetime":"2016/6/4 22:37",
+    "dropoff_datetime":"2016/6/4 22:44",
+    "passenger_count":2,
+    "trip_duration":396
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77680206,40.64561844 ]
+    },
+    "properties": {
+    "FIELD1":675098,
+    "pickup_datetime":"2016/5/2 5:50",
+    "dropoff_datetime":"2016/5/2 6:37",
+    "passenger_count":1,
+    "trip_duration":2803
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97808838,40.75246811 ]
+    },
+    "properties": {
+    "FIELD1":701351,
+    "pickup_datetime":"2016/6/16 15:04",
+    "dropoff_datetime":"2016/6/16 15:15",
+    "passenger_count":1,
+    "trip_duration":659
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98195648,40.77039719 ]
+    },
+    "properties": {
+    "FIELD1":1352969,
+    "pickup_datetime":"2016/6/2 22:09",
+    "dropoff_datetime":"2016/6/2 22:46",
+    "passenger_count":5,
+    "trip_duration":2201
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96002197,40.77357101 ]
+    },
+    "properties": {
+    "FIELD1":1200455,
+    "pickup_datetime":"2016/6/22 19:36",
+    "dropoff_datetime":"2016/6/22 20:20",
+    "passenger_count":1,
+    "trip_duration":2636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95937347,40.77728653 ]
+    },
+    "properties": {
+    "FIELD1":890159,
+    "pickup_datetime":"2016/6/22 16:45",
+    "dropoff_datetime":"2016/6/22 17:03",
+    "passenger_count":1,
+    "trip_duration":1117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98074341,40.75056839 ]
+    },
+    "properties": {
+    "FIELD1":1172249,
+    "pickup_datetime":"2016/1/26 18:14",
+    "dropoff_datetime":"2016/1/26 18:33",
+    "passenger_count":5,
+    "trip_duration":1106
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97164154,40.76267624 ]
+    },
+    "properties": {
+    "FIELD1":1987,
+    "pickup_datetime":"2016/5/13 5:31",
+    "dropoff_datetime":"2016/5/13 5:37",
+    "passenger_count":3,
+    "trip_duration":304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00248718,40.71430206 ]
+    },
+    "properties": {
+    "FIELD1":1357547,
+    "pickup_datetime":"2016/3/24 10:24",
+    "dropoff_datetime":"2016/3/24 10:54",
+    "passenger_count":2,
+    "trip_duration":1814
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97424316,40.75866318 ]
+    },
+    "properties": {
+    "FIELD1":927641,
+    "pickup_datetime":"2016/1/14 21:50",
+    "dropoff_datetime":"2016/1/14 22:04",
+    "passenger_count":1,
+    "trip_duration":819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99121857,40.76025009 ]
+    },
+    "properties": {
+    "FIELD1":1038132,
+    "pickup_datetime":"2016/6/17 22:27",
+    "dropoff_datetime":"2016/6/17 22:30",
+    "passenger_count":2,
+    "trip_duration":206
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00131989,40.72930527 ]
+    },
+    "properties": {
+    "FIELD1":730994,
+    "pickup_datetime":"2016/2/6 1:07",
+    "dropoff_datetime":"2016/2/6 1:46",
+    "passenger_count":2,
+    "trip_duration":2324
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97884369,40.76224136 ]
+    },
+    "properties": {
+    "FIELD1":674836,
+    "pickup_datetime":"2016/5/24 9:05",
+    "dropoff_datetime":"2016/5/24 9:17",
+    "passenger_count":1,
+    "trip_duration":763
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00249481,40.73403549 ]
+    },
+    "properties": {
+    "FIELD1":793394,
+    "pickup_datetime":"2016/6/22 17:28",
+    "dropoff_datetime":"2016/6/22 17:38",
+    "passenger_count":6,
+    "trip_duration":559
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00067139,40.72065353 ]
+    },
+    "properties": {
+    "FIELD1":347183,
+    "pickup_datetime":"2016/1/20 18:21",
+    "dropoff_datetime":"2016/1/20 19:17",
+    "passenger_count":1,
+    "trip_duration":3348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.981987,40.77142715 ]
+    },
+    "properties": {
+    "FIELD1":477792,
+    "pickup_datetime":"2016/3/29 20:49",
+    "dropoff_datetime":"2016/3/29 21:01",
+    "passenger_count":2,
+    "trip_duration":692
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94893646,40.77334976 ]
+    },
+    "properties": {
+    "FIELD1":28781,
+    "pickup_datetime":"2016/3/21 11:42",
+    "dropoff_datetime":"2016/3/21 11:55",
+    "passenger_count":1,
+    "trip_duration":777
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00537872,40.73815918 ]
+    },
+    "properties": {
+    "FIELD1":1329669,
+    "pickup_datetime":"2016/5/14 4:51",
+    "dropoff_datetime":"2016/5/14 5:02",
+    "passenger_count":1,
+    "trip_duration":658
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97026825,40.75970459 ]
+    },
+    "properties": {
+    "FIELD1":283374,
+    "pickup_datetime":"2016/4/20 21:36",
+    "dropoff_datetime":"2016/4/20 21:53",
+    "passenger_count":1,
+    "trip_duration":974
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97566986,40.75515747 ]
+    },
+    "properties": {
+    "FIELD1":1205618,
+    "pickup_datetime":"2016/5/5 11:04",
+    "dropoff_datetime":"2016/5/5 11:16",
+    "passenger_count":3,
+    "trip_duration":733
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95187378,40.78160095 ]
+    },
+    "properties": {
+    "FIELD1":1419405,
+    "pickup_datetime":"2016/1/27 23:22",
+    "dropoff_datetime":"2016/1/27 23:23",
+    "passenger_count":2,
+    "trip_duration":91
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97682953,40.75180054 ]
+    },
+    "properties": {
+    "FIELD1":1102699,
+    "pickup_datetime":"2016/3/2 8:20",
+    "dropoff_datetime":"2016/3/2 8:30",
+    "passenger_count":1,
+    "trip_duration":586
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94549561,40.72120667 ]
+    },
+    "properties": {
+    "FIELD1":819658,
+    "pickup_datetime":"2016/1/17 0:44",
+    "dropoff_datetime":"2016/1/17 0:52",
+    "passenger_count":1,
+    "trip_duration":489
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96077728,40.76160049 ]
+    },
+    "properties": {
+    "FIELD1":836924,
+    "pickup_datetime":"2016/5/28 6:30",
+    "dropoff_datetime":"2016/5/28 6:30",
+    "passenger_count":2,
+    "trip_duration":23
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00213623,40.74763107 ]
+    },
+    "properties": {
+    "FIELD1":1312176,
+    "pickup_datetime":"2016/1/6 10:06",
+    "dropoff_datetime":"2016/1/6 10:14",
+    "passenger_count":2,
+    "trip_duration":463
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95703888,40.77812195 ]
+    },
+    "properties": {
+    "FIELD1":54000,
+    "pickup_datetime":"2016/1/26 12:10",
+    "dropoff_datetime":"2016/1/26 12:41",
+    "passenger_count":1,
+    "trip_duration":1813
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00539398,40.74023056 ]
+    },
+    "properties": {
+    "FIELD1":1280280,
+    "pickup_datetime":"2016/2/20 0:19",
+    "dropoff_datetime":"2016/2/20 0:26",
+    "passenger_count":1,
+    "trip_duration":466
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95327759,40.76526642 ]
+    },
+    "properties": {
+    "FIELD1":1294602,
+    "pickup_datetime":"2016/3/28 10:40",
+    "dropoff_datetime":"2016/3/28 10:48",
+    "passenger_count":1,
+    "trip_duration":484
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99002075,40.7329216 ]
+    },
+    "properties": {
+    "FIELD1":118252,
+    "pickup_datetime":"2016/6/17 20:07",
+    "dropoff_datetime":"2016/6/17 20:11",
+    "passenger_count":1,
+    "trip_duration":269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00473785,40.73466873 ]
+    },
+    "properties": {
+    "FIELD1":1011778,
+    "pickup_datetime":"2016/5/23 18:00",
+    "dropoff_datetime":"2016/5/23 18:08",
+    "passenger_count":1,
+    "trip_duration":452
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98838806,40.74586868 ]
+    },
+    "properties": {
+    "FIELD1":1392002,
+    "pickup_datetime":"2016/1/19 23:43",
+    "dropoff_datetime":"2016/1/20 0:02",
+    "passenger_count":5,
+    "trip_duration":1149
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88465118,40.74758148 ]
+    },
+    "properties": {
+    "FIELD1":697988,
+    "pickup_datetime":"2016/2/5 8:57",
+    "dropoff_datetime":"2016/2/5 9:44",
+    "passenger_count":1,
+    "trip_duration":2789
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98642731,40.7430954 ]
+    },
+    "properties": {
+    "FIELD1":632098,
+    "pickup_datetime":"2016/1/15 18:07",
+    "dropoff_datetime":"2016/1/15 18:15",
+    "passenger_count":1,
+    "trip_duration":458
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96147919,40.75853729 ]
+    },
+    "properties": {
+    "FIELD1":267889,
+    "pickup_datetime":"2016/5/9 16:17",
+    "dropoff_datetime":"2016/5/9 16:21",
+    "passenger_count":1,
+    "trip_duration":285
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00390625,40.74219131 ]
+    },
+    "properties": {
+    "FIELD1":1274318,
+    "pickup_datetime":"2016/5/7 1:16",
+    "dropoff_datetime":"2016/5/7 1:23",
+    "passenger_count":1,
+    "trip_duration":368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94953156,40.78115845 ]
+    },
+    "properties": {
+    "FIELD1":1114076,
+    "pickup_datetime":"2016/6/10 8:22",
+    "dropoff_datetime":"2016/6/10 8:51",
+    "passenger_count":1,
+    "trip_duration":1736
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99414063,40.75114059 ]
+    },
+    "properties": {
+    "FIELD1":624777,
+    "pickup_datetime":"2016/6/6 7:47",
+    "dropoff_datetime":"2016/6/6 8:11",
+    "passenger_count":1,
+    "trip_duration":1422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98164368,40.74394989 ]
+    },
+    "properties": {
+    "FIELD1":859877,
+    "pickup_datetime":"2016/3/10 11:21",
+    "dropoff_datetime":"2016/3/10 11:47",
+    "passenger_count":1,
+    "trip_duration":1558
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00007629,40.73285294 ]
+    },
+    "properties": {
+    "FIELD1":981479,
+    "pickup_datetime":"2016/5/6 13:13",
+    "dropoff_datetime":"2016/5/6 13:33",
+    "passenger_count":1,
+    "trip_duration":1167
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98197937,40.76844025 ]
+    },
+    "properties": {
+    "FIELD1":669817,
+    "pickup_datetime":"2016/2/6 13:49",
+    "dropoff_datetime":"2016/2/6 13:55",
+    "passenger_count":2,
+    "trip_duration":374
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98652649,40.76199722 ]
+    },
+    "properties": {
+    "FIELD1":255678,
+    "pickup_datetime":"2016/2/16 12:54",
+    "dropoff_datetime":"2016/2/16 13:06",
+    "passenger_count":1,
+    "trip_duration":760
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97166443,40.78233337 ]
+    },
+    "properties": {
+    "FIELD1":450992,
+    "pickup_datetime":"2016/5/16 9:04",
+    "dropoff_datetime":"2016/5/16 9:20",
+    "passenger_count":1,
+    "trip_duration":962
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94847107,40.77991104 ]
+    },
+    "properties": {
+    "FIELD1":1212472,
+    "pickup_datetime":"2016/2/27 13:48",
+    "dropoff_datetime":"2016/2/27 14:05",
+    "passenger_count":1,
+    "trip_duration":1040
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99633789,40.73812485 ]
+    },
+    "properties": {
+    "FIELD1":1452045,
+    "pickup_datetime":"2016/2/11 8:10",
+    "dropoff_datetime":"2016/2/11 8:14",
+    "passenger_count":1,
+    "trip_duration":287
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97003174,40.76208878 ]
+    },
+    "properties": {
+    "FIELD1":809631,
+    "pickup_datetime":"2016/5/7 10:02",
+    "dropoff_datetime":"2016/5/7 10:18",
+    "passenger_count":1,
+    "trip_duration":952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95922089,40.77145004 ]
+    },
+    "properties": {
+    "FIELD1":921152,
+    "pickup_datetime":"2016/1/16 1:25",
+    "dropoff_datetime":"2016/1/16 1:45",
+    "passenger_count":1,
+    "trip_duration":1187
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00411224,40.73311234 ]
+    },
+    "properties": {
+    "FIELD1":1294396,
+    "pickup_datetime":"2016/6/11 11:46",
+    "dropoff_datetime":"2016/6/11 12:16",
+    "passenger_count":5,
+    "trip_duration":1809
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.77681732,40.64532852 ]
+    },
+    "properties": {
+    "FIELD1":807677,
+    "pickup_datetime":"2016/4/27 9:14",
+    "dropoff_datetime":"2016/4/27 9:32",
+    "passenger_count":4,
+    "trip_duration":1074
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98098755,40.75856781 ]
+    },
+    "properties": {
+    "FIELD1":1170727,
+    "pickup_datetime":"2016/6/11 21:42",
+    "dropoff_datetime":"2016/6/11 21:49",
+    "passenger_count":1,
+    "trip_duration":465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99128723,40.72370911 ]
+    },
+    "properties": {
+    "FIELD1":456,
+    "pickup_datetime":"2016/3/17 19:27",
+    "dropoff_datetime":"2016/3/17 19:34",
+    "passenger_count":1,
+    "trip_duration":385
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96201324,40.79530334 ]
+    },
+    "properties": {
+    "FIELD1":570691,
+    "pickup_datetime":"2016/6/17 18:21",
+    "dropoff_datetime":"2016/6/17 18:25",
+    "passenger_count":1,
+    "trip_duration":246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.92334747,40.76097488 ]
+    },
+    "properties": {
+    "FIELD1":953873,
+    "pickup_datetime":"2016/3/29 21:56",
+    "dropoff_datetime":"2016/3/29 22:04",
+    "passenger_count":1,
+    "trip_duration":461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96026611,40.77049637 ]
+    },
+    "properties": {
+    "FIELD1":24538,
+    "pickup_datetime":"2016/5/6 13:55",
+    "dropoff_datetime":"2016/5/6 13:58",
+    "passenger_count":1,
+    "trip_duration":160
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98527527,40.7359848 ]
+    },
+    "properties": {
+    "FIELD1":1026956,
+    "pickup_datetime":"2016/3/12 21:04",
+    "dropoff_datetime":"2016/3/12 21:16",
+    "passenger_count":1,
+    "trip_duration":726
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95961761,40.77133942 ]
+    },
+    "properties": {
+    "FIELD1":207884,
+    "pickup_datetime":"2016/4/23 1:26",
+    "dropoff_datetime":"2016/4/23 1:27",
+    "passenger_count":2,
+    "trip_duration":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99304962,40.72280884 ]
+    },
+    "properties": {
+    "FIELD1":864461,
+    "pickup_datetime":"2016/6/19 5:03",
+    "dropoff_datetime":"2016/6/19 5:15",
+    "passenger_count":1,
+    "trip_duration":731
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01721954,40.70586777 ]
+    },
+    "properties": {
+    "FIELD1":941362,
+    "pickup_datetime":"2016/4/7 6:59",
+    "dropoff_datetime":"2016/4/7 7:26",
+    "passenger_count":1,
+    "trip_duration":1611
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99427032,40.74097061 ]
+    },
+    "properties": {
+    "FIELD1":529708,
+    "pickup_datetime":"2016/1/24 11:19",
+    "dropoff_datetime":"2016/1/24 11:27",
+    "passenger_count":1,
+    "trip_duration":476
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96901703,40.78511047 ]
+    },
+    "properties": {
+    "FIELD1":562051,
+    "pickup_datetime":"2016/5/10 16:35",
+    "dropoff_datetime":"2016/5/10 16:44",
+    "passenger_count":2,
+    "trip_duration":514
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98743439,40.73848724 ]
+    },
+    "properties": {
+    "FIELD1":514492,
+    "pickup_datetime":"2016/2/28 1:05",
+    "dropoff_datetime":"2016/2/28 1:15",
+    "passenger_count":1,
+    "trip_duration":570
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86341858,40.76993179 ]
+    },
+    "properties": {
+    "FIELD1":502418,
+    "pickup_datetime":"2016/4/12 21:45",
+    "dropoff_datetime":"2016/4/12 22:07",
+    "passenger_count":1,
+    "trip_duration":1344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9821167,40.77707672 ]
+    },
+    "properties": {
+    "FIELD1":395856,
+    "pickup_datetime":"2016/4/18 11:51",
+    "dropoff_datetime":"2016/4/18 11:53",
+    "passenger_count":1,
+    "trip_duration":143
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97800446,40.78880692 ]
+    },
+    "properties": {
+    "FIELD1":559146,
+    "pickup_datetime":"2016/6/8 12:16",
+    "dropoff_datetime":"2016/6/8 12:17",
+    "passenger_count":1,
+    "trip_duration":71
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01438904,40.70371628 ]
+    },
+    "properties": {
+    "FIELD1":1100577,
+    "pickup_datetime":"2016/3/30 17:29",
+    "dropoff_datetime":"2016/3/30 17:57",
+    "passenger_count":1,
+    "trip_duration":1667
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00739288,40.7430191 ]
+    },
+    "properties": {
+    "FIELD1":470772,
+    "pickup_datetime":"2016/4/17 18:38",
+    "dropoff_datetime":"2016/4/17 18:39",
+    "passenger_count":1,
+    "trip_duration":75
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96877289,40.75458145 ]
+    },
+    "properties": {
+    "FIELD1":554786,
+    "pickup_datetime":"2016/3/17 8:52",
+    "dropoff_datetime":"2016/3/17 9:06",
+    "passenger_count":5,
+    "trip_duration":834
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9888916,40.75669479 ]
+    },
+    "properties": {
+    "FIELD1":888977,
+    "pickup_datetime":"2016/1/30 18:14",
+    "dropoff_datetime":"2016/1/30 18:38",
+    "passenger_count":4,
+    "trip_duration":1448
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95334625,40.79122925 ]
+    },
+    "properties": {
+    "FIELD1":1181805,
+    "pickup_datetime":"2016/1/8 19:57",
+    "dropoff_datetime":"2016/1/8 20:26",
+    "passenger_count":1,
+    "trip_duration":1752
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99085236,40.75099182 ]
+    },
+    "properties": {
+    "FIELD1":1413469,
+    "pickup_datetime":"2016/2/1 15:54",
+    "dropoff_datetime":"2016/2/1 15:58",
+    "passenger_count":1,
+    "trip_duration":247
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95613861,40.77184677 ]
+    },
+    "properties": {
+    "FIELD1":290821,
+    "pickup_datetime":"2016/4/2 11:24",
+    "dropoff_datetime":"2016/4/2 11:32",
+    "passenger_count":1,
+    "trip_duration":430
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94514465,40.71151733 ]
+    },
+    "properties": {
+    "FIELD1":1142164,
+    "pickup_datetime":"2016/4/16 3:47",
+    "dropoff_datetime":"2016/4/16 3:50",
+    "passenger_count":1,
+    "trip_duration":165
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78833771,40.64181137 ]
+    },
+    "properties": {
+    "FIELD1":136052,
+    "pickup_datetime":"2016/3/6 19:22",
+    "dropoff_datetime":"2016/3/6 19:59",
+    "passenger_count":1,
+    "trip_duration":2202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95941925,40.76274872 ]
+    },
+    "properties": {
+    "FIELD1":637375,
+    "pickup_datetime":"2016/1/1 1:28",
+    "dropoff_datetime":"2016/1/1 1:32",
+    "passenger_count":2,
+    "trip_duration":280
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.93915558,40.81072235 ]
+    },
+    "properties": {
+    "FIELD1":285195,
+    "pickup_datetime":"2016/5/6 6:14",
+    "dropoff_datetime":"2016/5/6 6:17",
+    "passenger_count":1,
+    "trip_duration":199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96963501,40.76343155 ]
+    },
+    "properties": {
+    "FIELD1":1066101,
+    "pickup_datetime":"2016/1/7 7:49",
+    "dropoff_datetime":"2016/1/7 8:12",
+    "passenger_count":1,
+    "trip_duration":1422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9797821,40.73492432 ]
+    },
+    "properties": {
+    "FIELD1":1402182,
+    "pickup_datetime":"2016/3/20 0:15",
+    "dropoff_datetime":"2016/3/20 0:29",
+    "passenger_count":1,
+    "trip_duration":852
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98236084,40.76870346 ]
+    },
+    "properties": {
+    "FIELD1":1180336,
+    "pickup_datetime":"2016/4/25 18:10",
+    "dropoff_datetime":"2016/4/25 18:22",
+    "passenger_count":1,
+    "trip_duration":743
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96949005,40.76065063 ]
+    },
+    "properties": {
+    "FIELD1":59165,
+    "pickup_datetime":"2016/4/26 5:55",
+    "dropoff_datetime":"2016/4/26 6:19",
+    "passenger_count":1,
+    "trip_duration":1427
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98847198,40.76007843 ]
+    },
+    "properties": {
+    "FIELD1":1274015,
+    "pickup_datetime":"2016/3/30 22:43",
+    "dropoff_datetime":"2016/3/30 22:52",
+    "passenger_count":1,
+    "trip_duration":582
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96125793,40.75762558 ]
+    },
+    "properties": {
+    "FIELD1":804115,
+    "pickup_datetime":"2016/4/20 8:31",
+    "dropoff_datetime":"2016/4/20 8:39",
+    "passenger_count":1,
+    "trip_duration":460
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78804016,40.65439987 ]
+    },
+    "properties": {
+    "FIELD1":1149166,
+    "pickup_datetime":"2016/1/7 0:10",
+    "dropoff_datetime":"2016/1/7 0:57",
+    "passenger_count":2,
+    "trip_duration":2818
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95658112,40.77169037 ]
+    },
+    "properties": {
+    "FIELD1":594371,
+    "pickup_datetime":"2016/2/27 15:57",
+    "dropoff_datetime":"2016/2/27 16:01",
+    "passenger_count":2,
+    "trip_duration":192
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96344757,40.79843903 ]
+    },
+    "properties": {
+    "FIELD1":836564,
+    "pickup_datetime":"2016/2/16 10:53",
+    "dropoff_datetime":"2016/2/16 11:07",
+    "passenger_count":1,
+    "trip_duration":801
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99237061,40.75495529 ]
+    },
+    "properties": {
+    "FIELD1":1127394,
+    "pickup_datetime":"2016/2/18 17:38",
+    "dropoff_datetime":"2016/2/18 17:53",
+    "passenger_count":3,
+    "trip_duration":902
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9467392,40.77626419 ]
+    },
+    "properties": {
+    "FIELD1":280700,
+    "pickup_datetime":"2016/2/2 9:34",
+    "dropoff_datetime":"2016/2/2 9:45",
+    "passenger_count":1,
+    "trip_duration":646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97329712,40.76370239 ]
+    },
+    "properties": {
+    "FIELD1":1261749,
+    "pickup_datetime":"2016/5/31 21:54",
+    "dropoff_datetime":"2016/5/31 22:04",
+    "passenger_count":1,
+    "trip_duration":580
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98855591,40.75914764 ]
+    },
+    "properties": {
+    "FIELD1":721187,
+    "pickup_datetime":"2016/1/14 21:02",
+    "dropoff_datetime":"2016/1/14 21:21",
+    "passenger_count":2,
+    "trip_duration":1089
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96433258,40.7646904 ]
+    },
+    "properties": {
+    "FIELD1":813567,
+    "pickup_datetime":"2016/1/10 18:46",
+    "dropoff_datetime":"2016/1/10 18:50",
+    "passenger_count":6,
+    "trip_duration":229
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96459961,40.77318192 ]
+    },
+    "properties": {
+    "FIELD1":1257653,
+    "pickup_datetime":"2016/5/17 9:01",
+    "dropoff_datetime":"2016/5/17 9:21",
+    "passenger_count":1,
+    "trip_duration":1199
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98506165,40.74470139 ]
+    },
+    "properties": {
+    "FIELD1":107845,
+    "pickup_datetime":"2016/1/22 6:37",
+    "dropoff_datetime":"2016/1/22 6:52",
+    "passenger_count":2,
+    "trip_duration":929
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01029968,40.71508026 ]
+    },
+    "properties": {
+    "FIELD1":1336811,
+    "pickup_datetime":"2016/5/15 17:03",
+    "dropoff_datetime":"2016/5/15 17:11",
+    "passenger_count":1,
+    "trip_duration":458
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94372559,40.68015671 ]
+    },
+    "properties": {
+    "FIELD1":408603,
+    "pickup_datetime":"2016/6/21 9:07",
+    "dropoff_datetime":"2016/6/21 9:08",
+    "passenger_count":1,
+    "trip_duration":87
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9910965,40.75590515 ]
+    },
+    "properties": {
+    "FIELD1":906829,
+    "pickup_datetime":"2016/1/20 9:37",
+    "dropoff_datetime":"2016/1/20 10:01",
+    "passenger_count":1,
+    "trip_duration":1447
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95692444,40.78349304 ]
+    },
+    "properties": {
+    "FIELD1":1107216,
+    "pickup_datetime":"2016/6/21 21:01",
+    "dropoff_datetime":"2016/6/21 21:06",
+    "passenger_count":2,
+    "trip_duration":315
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98873901,40.72219849 ]
+    },
+    "properties": {
+    "FIELD1":1094654,
+    "pickup_datetime":"2016/1/3 0:41",
+    "dropoff_datetime":"2016/1/3 1:02",
+    "passenger_count":1,
+    "trip_duration":1246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94485474,40.79256439 ]
+    },
+    "properties": {
+    "FIELD1":98928,
+    "pickup_datetime":"2016/2/28 9:54",
+    "dropoff_datetime":"2016/2/28 9:57",
+    "passenger_count":1,
+    "trip_duration":182
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96861267,40.75912857 ]
+    },
+    "properties": {
+    "FIELD1":1134708,
+    "pickup_datetime":"2016/6/11 19:25",
+    "dropoff_datetime":"2016/6/11 19:33",
+    "passenger_count":1,
+    "trip_duration":471
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99111176,40.76610565 ]
+    },
+    "properties": {
+    "FIELD1":381807,
+    "pickup_datetime":"2016/3/31 0:05",
+    "dropoff_datetime":"2016/3/31 0:13",
+    "passenger_count":6,
+    "trip_duration":481
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97096252,40.76433945 ]
+    },
+    "properties": {
+    "FIELD1":738298,
+    "pickup_datetime":"2016/2/10 10:05",
+    "dropoff_datetime":"2016/2/10 10:14",
+    "passenger_count":1,
+    "trip_duration":503
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96298218,40.76239014 ]
+    },
+    "properties": {
+    "FIELD1":1314482,
+    "pickup_datetime":"2016/5/25 8:53",
+    "dropoff_datetime":"2016/5/25 9:00",
+    "passenger_count":1,
+    "trip_duration":432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01708984,40.70741272 ]
+    },
+    "properties": {
+    "FIELD1":668072,
+    "pickup_datetime":"2016/6/11 16:49",
+    "dropoff_datetime":"2016/6/11 16:59",
+    "passenger_count":2,
+    "trip_duration":553
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95737457,40.77703094 ]
+    },
+    "properties": {
+    "FIELD1":126050,
+    "pickup_datetime":"2016/4/7 13:16",
+    "dropoff_datetime":"2016/4/7 13:28",
+    "passenger_count":1,
+    "trip_duration":707
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00580597,40.74029922 ]
+    },
+    "properties": {
+    "FIELD1":1435428,
+    "pickup_datetime":"2016/2/11 17:39",
+    "dropoff_datetime":"2016/2/11 18:15",
+    "passenger_count":1,
+    "trip_duration":2170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00897217,40.71387482 ]
+    },
+    "properties": {
+    "FIELD1":607849,
+    "pickup_datetime":"2016/5/22 16:21",
+    "dropoff_datetime":"2016/5/22 16:31",
+    "passenger_count":1,
+    "trip_duration":628
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99327087,40.73635483 ]
+    },
+    "properties": {
+    "FIELD1":499100,
+    "pickup_datetime":"2016/3/8 11:25",
+    "dropoff_datetime":"2016/3/8 11:42",
+    "passenger_count":1,
+    "trip_duration":1034
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9948349,40.74024582 ]
+    },
+    "properties": {
+    "FIELD1":202279,
+    "pickup_datetime":"2016/6/16 12:37",
+    "dropoff_datetime":"2016/6/16 12:50",
+    "passenger_count":2,
+    "trip_duration":792
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95806122,40.8008461 ]
+    },
+    "properties": {
+    "FIELD1":1202684,
+    "pickup_datetime":"2016/2/13 9:02",
+    "dropoff_datetime":"2016/2/13 9:09",
+    "passenger_count":1,
+    "trip_duration":401
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96676636,40.80436325 ]
+    },
+    "properties": {
+    "FIELD1":1036166,
+    "pickup_datetime":"2016/6/5 1:35",
+    "dropoff_datetime":"2016/6/5 2:13",
+    "passenger_count":2,
+    "trip_duration":2286
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98780823,40.75524139 ]
+    },
+    "properties": {
+    "FIELD1":334825,
+    "pickup_datetime":"2016/6/21 11:43",
+    "dropoff_datetime":"2016/6/21 11:51",
+    "passenger_count":4,
+    "trip_duration":468
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98159027,40.76348114 ]
+    },
+    "properties": {
+    "FIELD1":204180,
+    "pickup_datetime":"2016/6/7 1:51",
+    "dropoff_datetime":"2016/6/7 1:55",
+    "passenger_count":1,
+    "trip_duration":293
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98210907,40.76821518 ]
+    },
+    "properties": {
+    "FIELD1":396282,
+    "pickup_datetime":"2016/2/1 21:43",
+    "dropoff_datetime":"2016/2/1 21:47",
+    "passenger_count":1,
+    "trip_duration":259
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.91841888,40.76979065 ]
+    },
+    "properties": {
+    "FIELD1":27904,
+    "pickup_datetime":"2016/3/12 10:31",
+    "dropoff_datetime":"2016/3/12 10:32",
+    "passenger_count":1,
+    "trip_duration":46
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98880005,40.73731613 ]
+    },
+    "properties": {
+    "FIELD1":392600,
+    "pickup_datetime":"2016/5/31 16:59",
+    "dropoff_datetime":"2016/5/31 17:06",
+    "passenger_count":1,
+    "trip_duration":388
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98818207,40.76444244 ]
+    },
+    "properties": {
+    "FIELD1":1282721,
+    "pickup_datetime":"2016/5/21 13:36",
+    "dropoff_datetime":"2016/5/21 13:42",
+    "passenger_count":1,
+    "trip_duration":331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00238037,40.74505615 ]
+    },
+    "properties": {
+    "FIELD1":782796,
+    "pickup_datetime":"2016/4/4 8:50",
+    "dropoff_datetime":"2016/4/4 9:14",
+    "passenger_count":1,
+    "trip_duration":1456
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7767868,40.64509583 ]
+    },
+    "properties": {
+    "FIELD1":631187,
+    "pickup_datetime":"2016/2/16 16:28",
+    "dropoff_datetime":"2016/2/16 16:53",
+    "passenger_count":5,
+    "trip_duration":1492
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97506714,40.75286865 ]
+    },
+    "properties": {
+    "FIELD1":1005985,
+    "pickup_datetime":"2016/3/12 13:03",
+    "dropoff_datetime":"2016/3/12 13:20",
+    "passenger_count":6,
+    "trip_duration":1033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98260498,40.76184464 ]
+    },
+    "properties": {
+    "FIELD1":964618,
+    "pickup_datetime":"2016/4/23 4:09",
+    "dropoff_datetime":"2016/4/23 4:12",
+    "passenger_count":2,
+    "trip_duration":147
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00596619,40.7453537 ]
+    },
+    "properties": {
+    "FIELD1":22336,
+    "pickup_datetime":"2016/2/1 2:38",
+    "dropoff_datetime":"2016/2/1 2:42",
+    "passenger_count":1,
+    "trip_duration":218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00187683,40.73014832 ]
+    },
+    "properties": {
+    "FIELD1":1197738,
+    "pickup_datetime":"2016/6/18 17:48",
+    "dropoff_datetime":"2016/6/18 17:57",
+    "passenger_count":1,
+    "trip_duration":566
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95252991,40.77215958 ]
+    },
+    "properties": {
+    "FIELD1":1418642,
+    "pickup_datetime":"2016/5/20 20:53",
+    "dropoff_datetime":"2016/5/20 21:08",
+    "passenger_count":1,
+    "trip_duration":887
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.975914,40.77643967 ]
+    },
+    "properties": {
+    "FIELD1":569322,
+    "pickup_datetime":"2016/3/7 17:24",
+    "dropoff_datetime":"2016/3/7 17:30",
+    "passenger_count":1,
+    "trip_duration":380
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.8628006,40.7688179 ]
+    },
+    "properties": {
+    "FIELD1":668750,
+    "pickup_datetime":"2016/6/20 21:35",
+    "dropoff_datetime":"2016/6/20 21:55",
+    "passenger_count":1,
+    "trip_duration":1202
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96374512,40.77119446 ]
+    },
+    "properties": {
+    "FIELD1":499547,
+    "pickup_datetime":"2016/6/7 14:33",
+    "dropoff_datetime":"2016/6/7 14:47",
+    "passenger_count":1,
+    "trip_duration":854
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00140381,40.72780991 ]
+    },
+    "properties": {
+    "FIELD1":295345,
+    "pickup_datetime":"2016/3/25 14:16",
+    "dropoff_datetime":"2016/3/25 14:26",
+    "passenger_count":5,
+    "trip_duration":595
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9550705,40.78866196 ]
+    },
+    "properties": {
+    "FIELD1":560418,
+    "pickup_datetime":"2016/6/21 13:04",
+    "dropoff_datetime":"2016/6/21 13:12",
+    "passenger_count":1,
+    "trip_duration":517
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99166107,40.76483154 ]
+    },
+    "properties": {
+    "FIELD1":1384041,
+    "pickup_datetime":"2016/3/3 22:39",
+    "dropoff_datetime":"2016/3/3 22:54",
+    "passenger_count":1,
+    "trip_duration":870
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97251892,40.75962067 ]
+    },
+    "properties": {
+    "FIELD1":57435,
+    "pickup_datetime":"2016/2/4 12:04",
+    "dropoff_datetime":"2016/2/4 12:13",
+    "passenger_count":1,
+    "trip_duration":549
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01615906,40.70495987 ]
+    },
+    "properties": {
+    "FIELD1":274829,
+    "pickup_datetime":"2016/6/4 3:10",
+    "dropoff_datetime":"2016/6/4 3:23",
+    "passenger_count":1,
+    "trip_duration":819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00212097,40.72984695 ]
+    },
+    "properties": {
+    "FIELD1":498322,
+    "pickup_datetime":"2016/6/12 16:41",
+    "dropoff_datetime":"2016/6/12 16:50",
+    "passenger_count":1,
+    "trip_duration":562
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97254181,40.74379349 ]
+    },
+    "properties": {
+    "FIELD1":256139,
+    "pickup_datetime":"2016/5/26 23:49",
+    "dropoff_datetime":"2016/5/27 0:02",
+    "passenger_count":1,
+    "trip_duration":817
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9550705,40.76724243 ]
+    },
+    "properties": {
+    "FIELD1":1052036,
+    "pickup_datetime":"2016/1/21 20:14",
+    "dropoff_datetime":"2016/1/21 20:24",
+    "passenger_count":1,
+    "trip_duration":610
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87320709,40.77397919 ]
+    },
+    "properties": {
+    "FIELD1":1074298,
+    "pickup_datetime":"2016/4/4 9:17",
+    "dropoff_datetime":"2016/4/4 10:36",
+    "passenger_count":6,
+    "trip_duration":4747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97553253,40.75147247 ]
+    },
+    "properties": {
+    "FIELD1":126794,
+    "pickup_datetime":"2016/4/8 13:23",
+    "dropoff_datetime":"2016/4/8 13:30",
+    "passenger_count":3,
+    "trip_duration":408
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99633789,40.7664299 ]
+    },
+    "properties": {
+    "FIELD1":201038,
+    "pickup_datetime":"2016/5/29 5:40",
+    "dropoff_datetime":"2016/5/29 5:55",
+    "passenger_count":2,
+    "trip_duration":919
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97315216,40.75535965 ]
+    },
+    "properties": {
+    "FIELD1":806130,
+    "pickup_datetime":"2016/4/23 0:25",
+    "dropoff_datetime":"2016/4/23 0:57",
+    "passenger_count":1,
+    "trip_duration":1897
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00467682,40.72777557 ]
+    },
+    "properties": {
+    "FIELD1":349297,
+    "pickup_datetime":"2016/4/24 10:23",
+    "dropoff_datetime":"2016/4/24 10:26",
+    "passenger_count":5,
+    "trip_duration":171
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94657898,40.78508759 ]
+    },
+    "properties": {
+    "FIELD1":34736,
+    "pickup_datetime":"2016/6/3 16:54",
+    "dropoff_datetime":"2016/6/3 16:57",
+    "passenger_count":1,
+    "trip_duration":140
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95637512,40.74756241 ]
+    },
+    "properties": {
+    "FIELD1":1318662,
+    "pickup_datetime":"2016/3/27 0:38",
+    "dropoff_datetime":"2016/3/27 0:48",
+    "passenger_count":1,
+    "trip_duration":607
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99501801,40.74488831 ]
+    },
+    "properties": {
+    "FIELD1":243028,
+    "pickup_datetime":"2016/6/10 23:59",
+    "dropoff_datetime":"2016/6/11 0:01",
+    "passenger_count":1,
+    "trip_duration":109
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95526123,40.77428436 ]
+    },
+    "properties": {
+    "FIELD1":1390878,
+    "pickup_datetime":"2016/4/28 14:08",
+    "dropoff_datetime":"2016/4/28 14:20",
+    "passenger_count":1,
+    "trip_duration":688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98593903,40.74100876 ]
+    },
+    "properties": {
+    "FIELD1":1258995,
+    "pickup_datetime":"2016/1/24 10:38",
+    "dropoff_datetime":"2016/1/24 10:50",
+    "passenger_count":1,
+    "trip_duration":712
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98722839,40.77117538 ]
+    },
+    "properties": {
+    "FIELD1":569166,
+    "pickup_datetime":"2016/2/11 13:08",
+    "dropoff_datetime":"2016/2/11 13:16",
+    "passenger_count":1,
+    "trip_duration":504
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96311188,40.77507019 ]
+    },
+    "properties": {
+    "FIELD1":273984,
+    "pickup_datetime":"2016/6/8 21:27",
+    "dropoff_datetime":"2016/6/8 21:58",
+    "passenger_count":2,
+    "trip_duration":1819
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98360443,40.75547028 ]
+    },
+    "properties": {
+    "FIELD1":1120715,
+    "pickup_datetime":"2016/6/20 5:01",
+    "dropoff_datetime":"2016/6/20 5:05",
+    "passenger_count":1,
+    "trip_duration":219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97122955,40.76399994 ]
+    },
+    "properties": {
+    "FIELD1":489234,
+    "pickup_datetime":"2016/2/18 11:31",
+    "dropoff_datetime":"2016/2/18 11:34",
+    "passenger_count":1,
+    "trip_duration":220
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97912598,40.76182175 ]
+    },
+    "properties": {
+    "FIELD1":1333661,
+    "pickup_datetime":"2016/5/4 17:05",
+    "dropoff_datetime":"2016/5/4 17:12",
+    "passenger_count":1,
+    "trip_duration":467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96935272,40.80045319 ]
+    },
+    "properties": {
+    "FIELD1":470471,
+    "pickup_datetime":"2016/1/13 20:47",
+    "dropoff_datetime":"2016/1/13 20:58",
+    "passenger_count":1,
+    "trip_duration":656
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96590424,40.76217651 ]
+    },
+    "properties": {
+    "FIELD1":370812,
+    "pickup_datetime":"2016/1/10 16:59",
+    "dropoff_datetime":"2016/1/10 17:06",
+    "passenger_count":3,
+    "trip_duration":415
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96873474,40.75465775 ]
+    },
+    "properties": {
+    "FIELD1":291988,
+    "pickup_datetime":"2016/1/2 21:30",
+    "dropoff_datetime":"2016/1/2 21:31",
+    "passenger_count":1,
+    "trip_duration":62
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00537109,40.70739365 ]
+    },
+    "properties": {
+    "FIELD1":1141355,
+    "pickup_datetime":"2016/3/30 16:49",
+    "dropoff_datetime":"2016/3/30 16:54",
+    "passenger_count":1,
+    "trip_duration":251
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97904205,40.75069046 ]
+    },
+    "properties": {
+    "FIELD1":23423,
+    "pickup_datetime":"2016/5/9 15:59",
+    "dropoff_datetime":"2016/5/9 17:21",
+    "passenger_count":1,
+    "trip_duration":4923
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00779724,40.71264267 ]
+    },
+    "properties": {
+    "FIELD1":1217375,
+    "pickup_datetime":"2016/3/23 20:45",
+    "dropoff_datetime":"2016/3/23 20:56",
+    "passenger_count":1,
+    "trip_duration":676
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87351227,40.77405167 ]
+    },
+    "properties": {
+    "FIELD1":754634,
+    "pickup_datetime":"2016/1/9 15:19",
+    "dropoff_datetime":"2016/1/9 15:50",
+    "passenger_count":1,
+    "trip_duration":1864
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97676849,40.76486969 ]
+    },
+    "properties": {
+    "FIELD1":1055031,
+    "pickup_datetime":"2016/2/3 6:50",
+    "dropoff_datetime":"2016/2/3 6:57",
+    "passenger_count":1,
+    "trip_duration":432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96702576,40.76096344 ]
+    },
+    "properties": {
+    "FIELD1":1342147,
+    "pickup_datetime":"2016/4/5 21:37",
+    "dropoff_datetime":"2016/4/5 21:53",
+    "passenger_count":1,
+    "trip_duration":925
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96479797,40.79157257 ]
+    },
+    "properties": {
+    "FIELD1":203180,
+    "pickup_datetime":"2016/5/6 11:04",
+    "dropoff_datetime":"2016/5/6 11:11",
+    "passenger_count":1,
+    "trip_duration":429
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95860291,40.77534866 ]
+    },
+    "properties": {
+    "FIELD1":1277905,
+    "pickup_datetime":"2016/3/12 12:41",
+    "dropoff_datetime":"2016/3/12 12:49",
+    "passenger_count":1,
+    "trip_duration":477
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9908905,40.7455101 ]
+    },
+    "properties": {
+    "FIELD1":40691,
+    "pickup_datetime":"2016/2/10 16:03",
+    "dropoff_datetime":"2016/2/10 16:08",
+    "passenger_count":1,
+    "trip_duration":304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98342133,40.76669693 ]
+    },
+    "properties": {
+    "FIELD1":120475,
+    "pickup_datetime":"2016/6/4 17:05",
+    "dropoff_datetime":"2016/6/4 17:10",
+    "passenger_count":1,
+    "trip_duration":299
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98005676,40.74475861 ]
+    },
+    "properties": {
+    "FIELD1":180660,
+    "pickup_datetime":"2016/3/17 7:19",
+    "dropoff_datetime":"2016/3/17 7:24",
+    "passenger_count":1,
+    "trip_duration":277
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.91220093,40.76729965 ]
+    },
+    "properties": {
+    "FIELD1":1097950,
+    "pickup_datetime":"2016/1/27 23:20",
+    "dropoff_datetime":"2016/1/27 23:32",
+    "passenger_count":1,
+    "trip_duration":736
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0103302,40.7200737 ]
+    },
+    "properties": {
+    "FIELD1":434277,
+    "pickup_datetime":"2016/2/12 18:40",
+    "dropoff_datetime":"2016/2/12 18:52",
+    "passenger_count":1,
+    "trip_duration":739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9724884,40.75656509 ]
+    },
+    "properties": {
+    "FIELD1":1341761,
+    "pickup_datetime":"2016/4/2 0:12",
+    "dropoff_datetime":"2016/4/2 0:25",
+    "passenger_count":1,
+    "trip_duration":764
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95082092,40.78639221 ]
+    },
+    "properties": {
+    "FIELD1":626738,
+    "pickup_datetime":"2016/1/25 13:43",
+    "dropoff_datetime":"2016/1/25 13:51",
+    "passenger_count":1,
+    "trip_duration":487
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96659851,40.76422882 ]
+    },
+    "properties": {
+    "FIELD1":186309,
+    "pickup_datetime":"2016/2/17 18:56",
+    "dropoff_datetime":"2016/2/17 19:00",
+    "passenger_count":1,
+    "trip_duration":260
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95640564,40.71083832 ]
+    },
+    "properties": {
+    "FIELD1":271771,
+    "pickup_datetime":"2016/4/3 2:41",
+    "dropoff_datetime":"2016/4/3 2:54",
+    "passenger_count":1,
+    "trip_duration":763
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87124634,40.77382278 ]
+    },
+    "properties": {
+    "FIELD1":178685,
+    "pickup_datetime":"2016/6/18 12:46",
+    "dropoff_datetime":"2016/6/18 13:14",
+    "passenger_count":2,
+    "trip_duration":1712
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9732666,40.79257584 ]
+    },
+    "properties": {
+    "FIELD1":51954,
+    "pickup_datetime":"2016/3/30 1:00",
+    "dropoff_datetime":"2016/3/30 1:11",
+    "passenger_count":2,
+    "trip_duration":694
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95556641,40.77938843 ]
+    },
+    "properties": {
+    "FIELD1":1088651,
+    "pickup_datetime":"2016/2/25 16:12",
+    "dropoff_datetime":"2016/2/25 16:17",
+    "passenger_count":1,
+    "trip_duration":304
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98281097,40.76369858 ]
+    },
+    "properties": {
+    "FIELD1":112493,
+    "pickup_datetime":"2016/4/11 23:40",
+    "dropoff_datetime":"2016/4/11 23:46",
+    "passenger_count":2,
+    "trip_duration":383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9865036,40.73051071 ]
+    },
+    "properties": {
+    "FIELD1":1197114,
+    "pickup_datetime":"2016/4/11 19:57",
+    "dropoff_datetime":"2016/4/11 20:08",
+    "passenger_count":1,
+    "trip_duration":672
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95681763,40.78362656 ]
+    },
+    "properties": {
+    "FIELD1":867132,
+    "pickup_datetime":"2016/4/14 6:51",
+    "dropoff_datetime":"2016/4/14 6:55",
+    "passenger_count":1,
+    "trip_duration":246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99995422,40.75826263 ]
+    },
+    "properties": {
+    "FIELD1":426226,
+    "pickup_datetime":"2016/1/24 15:08",
+    "dropoff_datetime":"2016/1/24 15:21",
+    "passenger_count":2,
+    "trip_duration":799
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97073364,40.76108932 ]
+    },
+    "properties": {
+    "FIELD1":1063631,
+    "pickup_datetime":"2016/1/6 18:22",
+    "dropoff_datetime":"2016/1/6 18:28",
+    "passenger_count":2,
+    "trip_duration":369
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00050354,40.74761963 ]
+    },
+    "properties": {
+    "FIELD1":815024,
+    "pickup_datetime":"2016/6/7 7:36",
+    "dropoff_datetime":"2016/6/7 7:44",
+    "passenger_count":1,
+    "trip_duration":436
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99263,40.73048019 ]
+    },
+    "properties": {
+    "FIELD1":652678,
+    "pickup_datetime":"2016/5/13 22:47",
+    "dropoff_datetime":"2016/5/13 23:07",
+    "passenger_count":1,
+    "trip_duration":1222
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95885468,40.76403427 ]
+    },
+    "properties": {
+    "FIELD1":644281,
+    "pickup_datetime":"2016/3/30 15:01",
+    "dropoff_datetime":"2016/3/30 15:08",
+    "passenger_count":1,
+    "trip_duration":399
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95446014,40.7841301 ]
+    },
+    "properties": {
+    "FIELD1":307403,
+    "pickup_datetime":"2016/5/19 9:58",
+    "dropoff_datetime":"2016/5/19 10:15",
+    "passenger_count":1,
+    "trip_duration":1022
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00657654,40.73172379 ]
+    },
+    "properties": {
+    "FIELD1":63234,
+    "pickup_datetime":"2016/2/8 19:14",
+    "dropoff_datetime":"2016/2/8 19:20",
+    "passenger_count":1,
+    "trip_duration":358
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99726105,40.74088669 ]
+    },
+    "properties": {
+    "FIELD1":1032364,
+    "pickup_datetime":"2016/2/17 8:35",
+    "dropoff_datetime":"2016/2/17 8:43",
+    "passenger_count":5,
+    "trip_duration":453
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99256897,40.76335144 ]
+    },
+    "properties": {
+    "FIELD1":1246926,
+    "pickup_datetime":"2016/4/21 22:09",
+    "dropoff_datetime":"2016/4/21 22:16",
+    "passenger_count":1,
+    "trip_duration":419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95881653,40.78086853 ]
+    },
+    "properties": {
+    "FIELD1":329507,
+    "pickup_datetime":"2016/3/28 15:42",
+    "dropoff_datetime":"2016/3/28 15:47",
+    "passenger_count":1,
+    "trip_duration":270
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98484802,40.76869965 ]
+    },
+    "properties": {
+    "FIELD1":671265,
+    "pickup_datetime":"2016/6/20 6:18",
+    "dropoff_datetime":"2016/6/20 6:47",
+    "passenger_count":2,
+    "trip_duration":1733
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97561646,40.7892952 ]
+    },
+    "properties": {
+    "FIELD1":671731,
+    "pickup_datetime":"2016/4/2 15:12",
+    "dropoff_datetime":"2016/4/2 15:25",
+    "passenger_count":1,
+    "trip_duration":776
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.88538361,40.77310181 ]
+    },
+    "properties": {
+    "FIELD1":462500,
+    "pickup_datetime":"2016/1/26 18:33",
+    "dropoff_datetime":"2016/1/26 18:49",
+    "passenger_count":1,
+    "trip_duration":948
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94651794,40.81668091 ]
+    },
+    "properties": {
+    "FIELD1":443144,
+    "pickup_datetime":"2016/4/12 17:47",
+    "dropoff_datetime":"2016/4/12 17:58",
+    "passenger_count":1,
+    "trip_duration":646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9903183,40.72894287 ]
+    },
+    "properties": {
+    "FIELD1":884324,
+    "pickup_datetime":"2016/2/21 8:02",
+    "dropoff_datetime":"2016/2/21 8:05",
+    "passenger_count":1,
+    "trip_duration":225
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99738312,40.72162628 ]
+    },
+    "properties": {
+    "FIELD1":225410,
+    "pickup_datetime":"2016/4/8 21:57",
+    "dropoff_datetime":"2016/4/8 22:19",
+    "passenger_count":2,
+    "trip_duration":1340
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98235321,40.77083588 ]
+    },
+    "properties": {
+    "FIELD1":185753,
+    "pickup_datetime":"2016/5/13 9:13",
+    "dropoff_datetime":"2016/5/13 9:34",
+    "passenger_count":1,
+    "trip_duration":1232
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86342621,40.76993179 ]
+    },
+    "properties": {
+    "FIELD1":666516,
+    "pickup_datetime":"2016/6/2 10:18",
+    "dropoff_datetime":"2016/6/2 11:01",
+    "passenger_count":1,
+    "trip_duration":2564
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96875763,40.79126358 ]
+    },
+    "properties": {
+    "FIELD1":1172773,
+    "pickup_datetime":"2016/2/4 6:39",
+    "dropoff_datetime":"2016/2/4 7:16",
+    "passenger_count":1,
+    "trip_duration":2231
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95650482,40.78143692 ]
+    },
+    "properties": {
+    "FIELD1":699444,
+    "pickup_datetime":"2016/1/20 10:42",
+    "dropoff_datetime":"2016/1/20 11:04",
+    "passenger_count":1,
+    "trip_duration":1324
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97506714,40.75233078 ]
+    },
+    "properties": {
+    "FIELD1":1121671,
+    "pickup_datetime":"2016/2/22 6:26",
+    "dropoff_datetime":"2016/2/22 6:33",
+    "passenger_count":1,
+    "trip_duration":420
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96643829,40.76472855 ]
+    },
+    "properties": {
+    "FIELD1":20392,
+    "pickup_datetime":"2016/5/4 21:42",
+    "dropoff_datetime":"2016/5/4 21:58",
+    "passenger_count":1,
+    "trip_duration":966
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98543549,40.72742844 ]
+    },
+    "properties": {
+    "FIELD1":753639,
+    "pickup_datetime":"2016/3/16 19:26",
+    "dropoff_datetime":"2016/3/16 19:53",
+    "passenger_count":1,
+    "trip_duration":1587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00102234,40.7418251 ]
+    },
+    "properties": {
+    "FIELD1":13231,
+    "pickup_datetime":"2016/1/29 5:37",
+    "dropoff_datetime":"2016/1/29 5:56",
+    "passenger_count":1,
+    "trip_duration":1127
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98862457,40.75895691 ]
+    },
+    "properties": {
+    "FIELD1":157897,
+    "pickup_datetime":"2016/1/12 20:05",
+    "dropoff_datetime":"2016/1/12 20:15",
+    "passenger_count":2,
+    "trip_duration":620
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00422668,40.74253082 ]
+    },
+    "properties": {
+    "FIELD1":929292,
+    "pickup_datetime":"2016/2/13 1:03",
+    "dropoff_datetime":"2016/2/13 1:15",
+    "passenger_count":1,
+    "trip_duration":754
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96412659,40.76151657 ]
+    },
+    "properties": {
+    "FIELD1":467112,
+    "pickup_datetime":"2016/2/5 6:36",
+    "dropoff_datetime":"2016/2/5 6:49",
+    "passenger_count":1,
+    "trip_duration":763
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97174835,40.76380157 ]
+    },
+    "properties": {
+    "FIELD1":236906,
+    "pickup_datetime":"2016/6/3 13:09",
+    "dropoff_datetime":"2016/6/3 13:26",
+    "passenger_count":1,
+    "trip_duration":1041
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00767517,40.7050972 ]
+    },
+    "properties": {
+    "FIELD1":1332580,
+    "pickup_datetime":"2016/3/10 18:02",
+    "dropoff_datetime":"2016/3/10 18:13",
+    "passenger_count":3,
+    "trip_duration":641
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98249054,40.74256134 ]
+    },
+    "properties": {
+    "FIELD1":771257,
+    "pickup_datetime":"2016/2/18 9:30",
+    "dropoff_datetime":"2016/2/18 9:48",
+    "passenger_count":1,
+    "trip_duration":1094
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96963501,40.76134491 ]
+    },
+    "properties": {
+    "FIELD1":857205,
+    "pickup_datetime":"2016/1/25 14:58",
+    "dropoff_datetime":"2016/1/25 15:02",
+    "passenger_count":1,
+    "trip_duration":247
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99077606,40.76619339 ]
+    },
+    "properties": {
+    "FIELD1":987584,
+    "pickup_datetime":"2016/4/20 22:03",
+    "dropoff_datetime":"2016/4/20 22:08",
+    "passenger_count":2,
+    "trip_duration":358
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99718475,40.74708939 ]
+    },
+    "properties": {
+    "FIELD1":1326241,
+    "pickup_datetime":"2016/3/19 22:31",
+    "dropoff_datetime":"2016/3/19 22:34",
+    "passenger_count":1,
+    "trip_duration":208
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0065918,40.73302078 ]
+    },
+    "properties": {
+    "FIELD1":1048467,
+    "pickup_datetime":"2016/4/3 11:06",
+    "dropoff_datetime":"2016/4/3 11:19",
+    "passenger_count":1,
+    "trip_duration":794
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99412537,40.75100327 ]
+    },
+    "properties": {
+    "FIELD1":1434648,
+    "pickup_datetime":"2016/5/22 15:04",
+    "dropoff_datetime":"2016/5/22 16:02",
+    "passenger_count":4,
+    "trip_duration":3442
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00539398,40.72229385 ]
+    },
+    "properties": {
+    "FIELD1":930154,
+    "pickup_datetime":"2016/1/17 12:22",
+    "dropoff_datetime":"2016/1/17 12:34",
+    "passenger_count":2,
+    "trip_duration":721
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98278809,40.76656342 ]
+    },
+    "properties": {
+    "FIELD1":944944,
+    "pickup_datetime":"2016/3/3 21:05",
+    "dropoff_datetime":"2016/3/3 21:17",
+    "passenger_count":6,
+    "trip_duration":726
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98777008,40.74129868 ]
+    },
+    "properties": {
+    "FIELD1":705878,
+    "pickup_datetime":"2016/4/7 15:11",
+    "dropoff_datetime":"2016/4/7 15:50",
+    "passenger_count":1,
+    "trip_duration":2331
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98113251,40.76957703 ]
+    },
+    "properties": {
+    "FIELD1":1173649,
+    "pickup_datetime":"2016/4/11 13:09",
+    "dropoff_datetime":"2016/4/11 13:19",
+    "passenger_count":1,
+    "trip_duration":587
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97242737,40.76502991 ]
+    },
+    "properties": {
+    "FIELD1":69556,
+    "pickup_datetime":"2016/2/27 14:46",
+    "dropoff_datetime":"2016/2/27 15:07",
+    "passenger_count":1,
+    "trip_duration":1241
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98368073,40.77518845 ]
+    },
+    "properties": {
+    "FIELD1":664619,
+    "pickup_datetime":"2016/3/11 18:06",
+    "dropoff_datetime":"2016/3/11 18:31",
+    "passenger_count":1,
+    "trip_duration":1497
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00818634,40.7486496 ]
+    },
+    "properties": {
+    "FIELD1":277144,
+    "pickup_datetime":"2016/6/18 13:52",
+    "dropoff_datetime":"2016/6/18 14:01",
+    "passenger_count":2,
+    "trip_duration":545
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99968719,40.72980118 ]
+    },
+    "properties": {
+    "FIELD1":865302,
+    "pickup_datetime":"2016/4/23 21:38",
+    "dropoff_datetime":"2016/4/23 21:47",
+    "passenger_count":5,
+    "trip_duration":532
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97458649,40.79335022 ]
+    },
+    "properties": {
+    "FIELD1":1045346,
+    "pickup_datetime":"2016/3/8 11:18",
+    "dropoff_datetime":"2016/3/8 11:27",
+    "passenger_count":2,
+    "trip_duration":532
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96704865,40.76390076 ]
+    },
+    "properties": {
+    "FIELD1":457867,
+    "pickup_datetime":"2016/1/2 21:00",
+    "dropoff_datetime":"2016/1/2 21:29",
+    "passenger_count":1,
+    "trip_duration":1739
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95516968,40.7693367 ]
+    },
+    "properties": {
+    "FIELD1":136902,
+    "pickup_datetime":"2016/6/14 15:39",
+    "dropoff_datetime":"2016/6/14 15:49",
+    "passenger_count":1,
+    "trip_duration":595
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01437378,40.7138176 ]
+    },
+    "properties": {
+    "FIELD1":417796,
+    "pickup_datetime":"2016/3/3 9:50",
+    "dropoff_datetime":"2016/3/3 10:07",
+    "passenger_count":1,
+    "trip_duration":1005
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96302795,40.7991066 ]
+    },
+    "properties": {
+    "FIELD1":1381885,
+    "pickup_datetime":"2016/1/26 9:28",
+    "dropoff_datetime":"2016/1/26 10:17",
+    "passenger_count":1,
+    "trip_duration":2980
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96002197,40.77960968 ]
+    },
+    "properties": {
+    "FIELD1":796761,
+    "pickup_datetime":"2016/6/25 0:31",
+    "dropoff_datetime":"2016/6/25 0:34",
+    "passenger_count":2,
+    "trip_duration":211
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97528839,40.7553215 ]
+    },
+    "properties": {
+    "FIELD1":628064,
+    "pickup_datetime":"2016/3/18 17:16",
+    "dropoff_datetime":"2016/3/18 17:23",
+    "passenger_count":2,
+    "trip_duration":461
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00301361,40.73905182 ]
+    },
+    "properties": {
+    "FIELD1":877042,
+    "pickup_datetime":"2016/5/1 11:51",
+    "dropoff_datetime":"2016/5/1 12:04",
+    "passenger_count":1,
+    "trip_duration":745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96066284,40.76955032 ]
+    },
+    "properties": {
+    "FIELD1":804466,
+    "pickup_datetime":"2016/4/13 7:23",
+    "dropoff_datetime":"2016/4/13 7:30",
+    "passenger_count":1,
+    "trip_duration":418
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97402191,40.76213837 ]
+    },
+    "properties": {
+    "FIELD1":1381472,
+    "pickup_datetime":"2016/4/3 7:52",
+    "dropoff_datetime":"2016/4/3 7:55",
+    "passenger_count":2,
+    "trip_duration":191
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98179626,40.75859833 ]
+    },
+    "properties": {
+    "FIELD1":28585,
+    "pickup_datetime":"2016/4/12 9:18",
+    "dropoff_datetime":"2016/4/12 9:38",
+    "passenger_count":1,
+    "trip_duration":1184
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97715759,40.78741837 ]
+    },
+    "properties": {
+    "FIELD1":1450106,
+    "pickup_datetime":"2016/1/16 13:38",
+    "dropoff_datetime":"2016/1/16 13:41",
+    "passenger_count":1,
+    "trip_duration":138
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98840332,40.75305176 ]
+    },
+    "properties": {
+    "FIELD1":1079661,
+    "pickup_datetime":"2016/3/11 14:37",
+    "dropoff_datetime":"2016/3/11 14:44",
+    "passenger_count":1,
+    "trip_duration":400
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00637054,40.74193954 ]
+    },
+    "properties": {
+    "FIELD1":571055,
+    "pickup_datetime":"2016/3/29 17:46",
+    "dropoff_datetime":"2016/3/29 17:59",
+    "passenger_count":2,
+    "trip_duration":816
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86386108,40.76970291 ]
+    },
+    "properties": {
+    "FIELD1":1008366,
+    "pickup_datetime":"2016/5/31 21:21",
+    "dropoff_datetime":"2016/5/31 21:38",
+    "passenger_count":1,
+    "trip_duration":1000
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97149658,40.76280975 ]
+    },
+    "properties": {
+    "FIELD1":361614,
+    "pickup_datetime":"2016/6/27 2:57",
+    "dropoff_datetime":"2016/6/27 2:59",
+    "passenger_count":1,
+    "trip_duration":65
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0019455,40.72828293 ]
+    },
+    "properties": {
+    "FIELD1":867789,
+    "pickup_datetime":"2016/3/20 16:20",
+    "dropoff_datetime":"2016/3/20 16:27",
+    "passenger_count":5,
+    "trip_duration":443
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86273193,40.76876831 ]
+    },
+    "properties": {
+    "FIELD1":762960,
+    "pickup_datetime":"2016/6/10 21:08",
+    "dropoff_datetime":"2016/6/10 21:35",
+    "passenger_count":1,
+    "trip_duration":1652
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99255371,40.74006653 ]
+    },
+    "properties": {
+    "FIELD1":1295868,
+    "pickup_datetime":"2016/3/21 10:56",
+    "dropoff_datetime":"2016/3/21 11:05",
+    "passenger_count":1,
+    "trip_duration":540
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86318207,40.77000809 ]
+    },
+    "properties": {
+    "FIELD1":1448755,
+    "pickup_datetime":"2016/5/14 17:20",
+    "dropoff_datetime":"2016/5/14 17:44",
+    "passenger_count":1,
+    "trip_duration":1436
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00667572,40.74386978 ]
+    },
+    "properties": {
+    "FIELD1":1414637,
+    "pickup_datetime":"2016/5/1 23:39",
+    "dropoff_datetime":"2016/5/1 23:43",
+    "passenger_count":1,
+    "trip_duration":241
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98783112,40.75975037 ]
+    },
+    "properties": {
+    "FIELD1":622485,
+    "pickup_datetime":"2016/2/1 16:46",
+    "dropoff_datetime":"2016/2/1 17:00",
+    "passenger_count":2,
+    "trip_duration":831
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98219299,40.75656128 ]
+    },
+    "properties": {
+    "FIELD1":1211812,
+    "pickup_datetime":"2016/4/20 17:22",
+    "dropoff_datetime":"2016/4/20 17:38",
+    "passenger_count":2,
+    "trip_duration":994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99185944,40.7498703 ]
+    },
+    "properties": {
+    "FIELD1":312139,
+    "pickup_datetime":"2016/6/17 19:22",
+    "dropoff_datetime":"2016/6/17 19:26",
+    "passenger_count":2,
+    "trip_duration":288
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99143219,40.74473953 ]
+    },
+    "properties": {
+    "FIELD1":487319,
+    "pickup_datetime":"2016/4/4 12:01",
+    "dropoff_datetime":"2016/4/4 12:21",
+    "passenger_count":1,
+    "trip_duration":1193
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95436859,40.80572891 ]
+    },
+    "properties": {
+    "FIELD1":1387332,
+    "pickup_datetime":"2016/3/18 4:10",
+    "dropoff_datetime":"2016/3/18 4:16",
+    "passenger_count":1,
+    "trip_duration":366
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95900726,40.80100632 ]
+    },
+    "properties": {
+    "FIELD1":92899,
+    "pickup_datetime":"2016/3/13 10:23",
+    "dropoff_datetime":"2016/3/13 10:31",
+    "passenger_count":1,
+    "trip_duration":462
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99304962,40.74126053 ]
+    },
+    "properties": {
+    "FIELD1":1275194,
+    "pickup_datetime":"2016/1/15 0:33",
+    "dropoff_datetime":"2016/1/15 0:42",
+    "passenger_count":1,
+    "trip_duration":537
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98910522,40.76306915 ]
+    },
+    "properties": {
+    "FIELD1":370303,
+    "pickup_datetime":"2016/3/13 1:00",
+    "dropoff_datetime":"2016/3/13 1:07",
+    "passenger_count":1,
+    "trip_duration":413
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99926758,40.7388382 ]
+    },
+    "properties": {
+    "FIELD1":965586,
+    "pickup_datetime":"2016/1/16 22:26",
+    "dropoff_datetime":"2016/1/16 22:37",
+    "passenger_count":1,
+    "trip_duration":635
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98892975,40.71889114 ]
+    },
+    "properties": {
+    "FIELD1":868981,
+    "pickup_datetime":"2016/5/14 1:46",
+    "dropoff_datetime":"2016/5/14 2:09",
+    "passenger_count":5,
+    "trip_duration":1349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97093201,40.76424026 ]
+    },
+    "properties": {
+    "FIELD1":1087570,
+    "pickup_datetime":"2016/1/30 21:56",
+    "dropoff_datetime":"2016/1/30 22:08",
+    "passenger_count":1,
+    "trip_duration":760
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9824295,40.76852036 ]
+    },
+    "properties": {
+    "FIELD1":505320,
+    "pickup_datetime":"2016/2/23 22:32",
+    "dropoff_datetime":"2016/2/23 22:35",
+    "passenger_count":2,
+    "trip_duration":144
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9605484,40.78150177 ]
+    },
+    "properties": {
+    "FIELD1":1027212,
+    "pickup_datetime":"2016/3/18 20:01",
+    "dropoff_datetime":"2016/3/18 20:26",
+    "passenger_count":2,
+    "trip_duration":1467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97766876,40.76287842 ]
+    },
+    "properties": {
+    "FIELD1":596442,
+    "pickup_datetime":"2016/4/3 2:38",
+    "dropoff_datetime":"2016/4/3 2:43",
+    "passenger_count":1,
+    "trip_duration":348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00584412,40.65590668 ]
+    },
+    "properties": {
+    "FIELD1":930106,
+    "pickup_datetime":"2016/4/9 18:13",
+    "dropoff_datetime":"2016/4/9 18:32",
+    "passenger_count":2,
+    "trip_duration":1117
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00668335,40.74869537 ]
+    },
+    "properties": {
+    "FIELD1":77412,
+    "pickup_datetime":"2016/2/24 14:32",
+    "dropoff_datetime":"2016/2/24 14:38",
+    "passenger_count":1,
+    "trip_duration":381
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00713348,40.70492935 ]
+    },
+    "properties": {
+    "FIELD1":796486,
+    "pickup_datetime":"2016/2/26 15:43",
+    "dropoff_datetime":"2016/2/26 17:30",
+    "passenger_count":1,
+    "trip_duration":6432
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99687195,40.76341248 ]
+    },
+    "properties": {
+    "FIELD1":1135823,
+    "pickup_datetime":"2016/5/20 20:32",
+    "dropoff_datetime":"2016/5/20 20:38",
+    "passenger_count":1,
+    "trip_duration":352
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9746933,40.68741989 ]
+    },
+    "properties": {
+    "FIELD1":698141,
+    "pickup_datetime":"2016/5/15 18:31",
+    "dropoff_datetime":"2016/5/15 18:45",
+    "passenger_count":2,
+    "trip_duration":856
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99693298,40.72058105 ]
+    },
+    "properties": {
+    "FIELD1":628969,
+    "pickup_datetime":"2016/2/22 23:06",
+    "dropoff_datetime":"2016/2/22 23:24",
+    "passenger_count":1,
+    "trip_duration":1075
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98401642,40.73751831 ]
+    },
+    "properties": {
+    "FIELD1":1388987,
+    "pickup_datetime":"2016/5/16 20:07",
+    "dropoff_datetime":"2016/5/16 20:14",
+    "passenger_count":1,
+    "trip_duration":423
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0076828,40.73208237 ]
+    },
+    "properties": {
+    "FIELD1":16328,
+    "pickup_datetime":"2016/3/31 8:27",
+    "dropoff_datetime":"2016/3/31 8:57",
+    "passenger_count":1,
+    "trip_duration":1757
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00572205,40.74017334 ]
+    },
+    "properties": {
+    "FIELD1":316222,
+    "pickup_datetime":"2016/4/17 22:13",
+    "dropoff_datetime":"2016/4/17 22:28",
+    "passenger_count":1,
+    "trip_duration":913
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95277405,40.78574371 ]
+    },
+    "properties": {
+    "FIELD1":418693,
+    "pickup_datetime":"2016/2/10 18:44",
+    "dropoff_datetime":"2016/2/10 18:50",
+    "passenger_count":1,
+    "trip_duration":376
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95965576,40.7803154 ]
+    },
+    "properties": {
+    "FIELD1":269270,
+    "pickup_datetime":"2016/4/23 19:19",
+    "dropoff_datetime":"2016/4/23 19:29",
+    "passenger_count":2,
+    "trip_duration":551
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95529938,40.78448105 ]
+    },
+    "properties": {
+    "FIELD1":261461,
+    "pickup_datetime":"2016/6/3 9:55",
+    "dropoff_datetime":"2016/6/3 9:59",
+    "passenger_count":1,
+    "trip_duration":235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96465302,40.77562332 ]
+    },
+    "properties": {
+    "FIELD1":1269947,
+    "pickup_datetime":"2016/3/27 16:36",
+    "dropoff_datetime":"2016/3/27 16:44",
+    "passenger_count":1,
+    "trip_duration":465
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94788361,40.77456665 ]
+    },
+    "properties": {
+    "FIELD1":22911,
+    "pickup_datetime":"2016/4/28 9:10",
+    "dropoff_datetime":"2016/4/28 9:26",
+    "passenger_count":1,
+    "trip_duration":972
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94096375,40.79256821 ]
+    },
+    "properties": {
+    "FIELD1":425785,
+    "pickup_datetime":"2016/4/4 17:07",
+    "dropoff_datetime":"2016/4/4 17:22",
+    "passenger_count":1,
+    "trip_duration":947
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00034332,40.71819305 ]
+    },
+    "properties": {
+    "FIELD1":198106,
+    "pickup_datetime":"2016/1/22 0:09",
+    "dropoff_datetime":"2016/1/22 0:16",
+    "passenger_count":4,
+    "trip_duration":423
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.79008484,40.64375305 ]
+    },
+    "properties": {
+    "FIELD1":623035,
+    "pickup_datetime":"2016/1/5 21:28",
+    "dropoff_datetime":"2016/1/5 22:01",
+    "passenger_count":1,
+    "trip_duration":1988
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9801178,40.78396225 ]
+    },
+    "properties": {
+    "FIELD1":633743,
+    "pickup_datetime":"2016/1/26 9:24",
+    "dropoff_datetime":"2016/1/26 9:46",
+    "passenger_count":1,
+    "trip_duration":1318
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96350861,40.77098083 ]
+    },
+    "properties": {
+    "FIELD1":100789,
+    "pickup_datetime":"2016/5/10 20:06",
+    "dropoff_datetime":"2016/5/10 20:12",
+    "passenger_count":1,
+    "trip_duration":348
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99681854,40.76256943 ]
+    },
+    "properties": {
+    "FIELD1":1055461,
+    "pickup_datetime":"2016/3/14 22:34",
+    "dropoff_datetime":"2016/3/14 22:41",
+    "passenger_count":6,
+    "trip_duration":413
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98087311,40.78472519 ]
+    },
+    "properties": {
+    "FIELD1":137227,
+    "pickup_datetime":"2016/1/8 16:03",
+    "dropoff_datetime":"2016/1/8 16:12",
+    "passenger_count":5,
+    "trip_duration":520
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96987152,40.75695801 ]
+    },
+    "properties": {
+    "FIELD1":1257305,
+    "pickup_datetime":"2016/3/19 10:49",
+    "dropoff_datetime":"2016/3/19 10:57",
+    "passenger_count":1,
+    "trip_duration":516
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01476288,40.70981979 ]
+    },
+    "properties": {
+    "FIELD1":1291178,
+    "pickup_datetime":"2016/3/15 19:32",
+    "dropoff_datetime":"2016/3/15 19:46",
+    "passenger_count":2,
+    "trip_duration":848
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00987244,40.7362709 ]
+    },
+    "properties": {
+    "FIELD1":74839,
+    "pickup_datetime":"2016/4/16 20:52",
+    "dropoff_datetime":"2016/4/16 21:00",
+    "passenger_count":1,
+    "trip_duration":456
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9884491,40.74926376 ]
+    },
+    "properties": {
+    "FIELD1":1335117,
+    "pickup_datetime":"2016/4/24 2:28",
+    "dropoff_datetime":"2016/4/24 2:34",
+    "passenger_count":1,
+    "trip_duration":365
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95120239,40.78258133 ]
+    },
+    "properties": {
+    "FIELD1":288039,
+    "pickup_datetime":"2016/1/12 8:59",
+    "dropoff_datetime":"2016/1/12 9:10",
+    "passenger_count":1,
+    "trip_duration":648
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0026474,40.73938751 ]
+    },
+    "properties": {
+    "FIELD1":40221,
+    "pickup_datetime":"2016/3/14 9:23",
+    "dropoff_datetime":"2016/3/14 9:32",
+    "passenger_count":1,
+    "trip_duration":543
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99181366,40.74996185 ]
+    },
+    "properties": {
+    "FIELD1":1077252,
+    "pickup_datetime":"2016/3/11 10:54",
+    "dropoff_datetime":"2016/3/11 11:05",
+    "passenger_count":5,
+    "trip_duration":679
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98749542,40.7496109 ]
+    },
+    "properties": {
+    "FIELD1":91484,
+    "pickup_datetime":"2016/3/28 20:34",
+    "dropoff_datetime":"2016/3/28 20:38",
+    "passenger_count":1,
+    "trip_duration":219
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95076752,40.76972961 ]
+    },
+    "properties": {
+    "FIELD1":1133572,
+    "pickup_datetime":"2016/6/3 18:49",
+    "dropoff_datetime":"2016/6/3 18:55",
+    "passenger_count":3,
+    "trip_duration":368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.80924988,40.69227982 ]
+    },
+    "properties": {
+    "FIELD1":1349781,
+    "pickup_datetime":"2016/5/1 0:54",
+    "dropoff_datetime":"2016/5/1 1:00",
+    "passenger_count":5,
+    "trip_duration":373
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97485352,40.76216888 ]
+    },
+    "properties": {
+    "FIELD1":1397467,
+    "pickup_datetime":"2016/5/4 22:02",
+    "dropoff_datetime":"2016/5/4 22:15",
+    "passenger_count":1,
+    "trip_duration":751
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99118042,40.73742294 ]
+    },
+    "properties": {
+    "FIELD1":1288205,
+    "pickup_datetime":"2016/6/4 1:26",
+    "dropoff_datetime":"2016/6/4 1:33",
+    "passenger_count":1,
+    "trip_duration":431
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00733185,40.71305847 ]
+    },
+    "properties": {
+    "FIELD1":237348,
+    "pickup_datetime":"2016/2/16 19:31",
+    "dropoff_datetime":"2016/2/16 19:41",
+    "passenger_count":1,
+    "trip_duration":596
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99700928,40.73155594 ]
+    },
+    "properties": {
+    "FIELD1":129993,
+    "pickup_datetime":"2016/1/16 22:25",
+    "dropoff_datetime":"2016/1/16 22:39",
+    "passenger_count":3,
+    "trip_duration":859
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01187134,40.70998383 ]
+    },
+    "properties": {
+    "FIELD1":23308,
+    "pickup_datetime":"2016/5/13 23:25",
+    "dropoff_datetime":"2016/5/13 23:31",
+    "passenger_count":1,
+    "trip_duration":312
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98194885,40.74662018 ]
+    },
+    "properties": {
+    "FIELD1":402342,
+    "pickup_datetime":"2016/6/3 0:18",
+    "dropoff_datetime":"2016/6/3 0:29",
+    "passenger_count":3,
+    "trip_duration":626
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99141693,40.76049042 ]
+    },
+    "properties": {
+    "FIELD1":325308,
+    "pickup_datetime":"2016/2/20 3:47",
+    "dropoff_datetime":"2016/2/20 4:06",
+    "passenger_count":1,
+    "trip_duration":1146
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99101257,40.74959946 ]
+    },
+    "properties": {
+    "FIELD1":11422,
+    "pickup_datetime":"2016/1/16 18:02",
+    "dropoff_datetime":"2016/1/16 18:16",
+    "passenger_count":1,
+    "trip_duration":851
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96614075,40.76483917 ]
+    },
+    "properties": {
+    "FIELD1":1099387,
+    "pickup_datetime":"2016/5/3 22:43",
+    "dropoff_datetime":"2016/5/3 22:49",
+    "passenger_count":1,
+    "trip_duration":375
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96618652,40.76755524 ]
+    },
+    "properties": {
+    "FIELD1":901380,
+    "pickup_datetime":"2016/5/12 21:04",
+    "dropoff_datetime":"2016/5/12 21:14",
+    "passenger_count":1,
+    "trip_duration":619
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97264862,40.74946213 ]
+    },
+    "properties": {
+    "FIELD1":36347,
+    "pickup_datetime":"2016/3/14 7:51",
+    "dropoff_datetime":"2016/3/14 8:02",
+    "passenger_count":1,
+    "trip_duration":644
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96125793,40.77719116 ]
+    },
+    "properties": {
+    "FIELD1":742261,
+    "pickup_datetime":"2016/3/3 14:38",
+    "dropoff_datetime":"2016/3/3 14:54",
+    "passenger_count":1,
+    "trip_duration":963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99095917,40.73486328 ]
+    },
+    "properties": {
+    "FIELD1":761067,
+    "pickup_datetime":"2016/6/24 10:48",
+    "dropoff_datetime":"2016/6/24 10:52",
+    "passenger_count":1,
+    "trip_duration":217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00753021,40.72764969 ]
+    },
+    "properties": {
+    "FIELD1":4185,
+    "pickup_datetime":"2016/1/12 10:03",
+    "dropoff_datetime":"2016/1/12 10:12",
+    "passenger_count":1,
+    "trip_duration":577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98206329,40.76505661 ]
+    },
+    "properties": {
+    "FIELD1":293341,
+    "pickup_datetime":"2016/1/6 20:46",
+    "dropoff_datetime":"2016/1/6 20:51",
+    "passenger_count":2,
+    "trip_duration":344
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00705719,40.70726013 ]
+    },
+    "properties": {
+    "FIELD1":724370,
+    "pickup_datetime":"2016/1/13 7:58",
+    "dropoff_datetime":"2016/1/13 8:16",
+    "passenger_count":1,
+    "trip_duration":1107
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9756012,40.75132751 ]
+    },
+    "properties": {
+    "FIELD1":210593,
+    "pickup_datetime":"2016/2/3 8:58",
+    "dropoff_datetime":"2016/2/3 9:23",
+    "passenger_count":4,
+    "trip_duration":1486
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99410248,40.73252869 ]
+    },
+    "properties": {
+    "FIELD1":531695,
+    "pickup_datetime":"2016/6/29 18:48",
+    "dropoff_datetime":"2016/6/29 18:57",
+    "passenger_count":1,
+    "trip_duration":513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95468903,40.76402664 ]
+    },
+    "properties": {
+    "FIELD1":275102,
+    "pickup_datetime":"2016/4/15 11:49",
+    "dropoff_datetime":"2016/4/15 12:07",
+    "passenger_count":3,
+    "trip_duration":1111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96031189,40.77539063 ]
+    },
+    "properties": {
+    "FIELD1":755790,
+    "pickup_datetime":"2016/2/28 14:52",
+    "dropoff_datetime":"2016/2/28 14:55",
+    "passenger_count":1,
+    "trip_duration":176
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01399231,40.71389008 ]
+    },
+    "properties": {
+    "FIELD1":452644,
+    "pickup_datetime":"2016/1/21 13:53",
+    "dropoff_datetime":"2016/1/21 14:16",
+    "passenger_count":6,
+    "trip_duration":1427
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98519897,40.74767303 ]
+    },
+    "properties": {
+    "FIELD1":211753,
+    "pickup_datetime":"2016/1/26 23:07",
+    "dropoff_datetime":"2016/1/26 23:31",
+    "passenger_count":1,
+    "trip_duration":1383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98226929,40.7620163 ]
+    },
+    "properties": {
+    "FIELD1":995802,
+    "pickup_datetime":"2016/5/18 21:19",
+    "dropoff_datetime":"2016/5/18 21:29",
+    "passenger_count":1,
+    "trip_duration":605
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78520966,40.64850998 ]
+    },
+    "properties": {
+    "FIELD1":663653,
+    "pickup_datetime":"2016/5/13 14:42",
+    "dropoff_datetime":"2016/5/13 15:43",
+    "passenger_count":1,
+    "trip_duration":3708
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98152161,40.75843048 ]
+    },
+    "properties": {
+    "FIELD1":150059,
+    "pickup_datetime":"2016/6/21 13:43",
+    "dropoff_datetime":"2016/6/21 14:03",
+    "passenger_count":1,
+    "trip_duration":1204
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94962311,40.78099823 ]
+    },
+    "properties": {
+    "FIELD1":299714,
+    "pickup_datetime":"2016/1/10 16:30",
+    "dropoff_datetime":"2016/1/10 16:37",
+    "passenger_count":5,
+    "trip_duration":410
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96421814,40.80239105 ]
+    },
+    "properties": {
+    "FIELD1":647098,
+    "pickup_datetime":"2016/5/6 1:24",
+    "dropoff_datetime":"2016/5/6 1:28",
+    "passenger_count":1,
+    "trip_duration":252
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.94629669,40.82715988 ]
+    },
+    "properties": {
+    "FIELD1":522324,
+    "pickup_datetime":"2016/6/4 10:40",
+    "dropoff_datetime":"2016/6/4 10:53",
+    "passenger_count":1,
+    "trip_duration":780
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98684692,40.72962952 ]
+    },
+    "properties": {
+    "FIELD1":1031030,
+    "pickup_datetime":"2016/3/20 18:11",
+    "dropoff_datetime":"2016/3/20 18:17",
+    "passenger_count":1,
+    "trip_duration":333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99730682,40.74177933 ]
+    },
+    "properties": {
+    "FIELD1":1304828,
+    "pickup_datetime":"2016/5/21 12:01",
+    "dropoff_datetime":"2016/5/21 12:09",
+    "passenger_count":4,
+    "trip_duration":473
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98831177,40.74594879 ]
+    },
+    "properties": {
+    "FIELD1":701671,
+    "pickup_datetime":"2016/6/30 12:47",
+    "dropoff_datetime":"2016/6/30 13:04",
+    "passenger_count":1,
+    "trip_duration":1040
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00856018,40.7117424 ]
+    },
+    "properties": {
+    "FIELD1":93969,
+    "pickup_datetime":"2016/3/9 13:47",
+    "dropoff_datetime":"2016/3/9 13:53",
+    "passenger_count":1,
+    "trip_duration":383
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96789551,40.79264069 ]
+    },
+    "properties": {
+    "FIELD1":325385,
+    "pickup_datetime":"2016/5/24 10:56",
+    "dropoff_datetime":"2016/5/24 11:12",
+    "passenger_count":1,
+    "trip_duration":957
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98144531,40.76498032 ]
+    },
+    "properties": {
+    "FIELD1":1344179,
+    "pickup_datetime":"2016/4/9 13:09",
+    "dropoff_datetime":"2016/4/9 13:55",
+    "passenger_count":1,
+    "trip_duration":2786
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99079895,40.77156067 ]
+    },
+    "properties": {
+    "FIELD1":328297,
+    "pickup_datetime":"2016/4/29 9:02",
+    "dropoff_datetime":"2016/4/29 9:17",
+    "passenger_count":1,
+    "trip_duration":930
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98985291,40.75670242 ]
+    },
+    "properties": {
+    "FIELD1":1296563,
+    "pickup_datetime":"2016/3/11 19:46",
+    "dropoff_datetime":"2016/3/11 19:55",
+    "passenger_count":2,
+    "trip_duration":538
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98519135,40.76029205 ]
+    },
+    "properties": {
+    "FIELD1":767265,
+    "pickup_datetime":"2016/1/4 20:23",
+    "dropoff_datetime":"2016/1/4 20:31",
+    "passenger_count":1,
+    "trip_duration":468
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9599762,40.77355957 ]
+    },
+    "properties": {
+    "FIELD1":1415904,
+    "pickup_datetime":"2016/5/23 15:39",
+    "dropoff_datetime":"2016/5/23 16:10",
+    "passenger_count":2,
+    "trip_duration":1848
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00349426,40.72730637 ]
+    },
+    "properties": {
+    "FIELD1":1196318,
+    "pickup_datetime":"2016/1/21 18:53",
+    "dropoff_datetime":"2016/1/21 19:04",
+    "passenger_count":1,
+    "trip_duration":628
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97005463,40.79423523 ]
+    },
+    "properties": {
+    "FIELD1":632079,
+    "pickup_datetime":"2016/3/5 14:27",
+    "dropoff_datetime":"2016/3/5 14:28",
+    "passenger_count":1,
+    "trip_duration":74
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.96877289,40.79120636 ]
+    },
+    "properties": {
+    "FIELD1":1102393,
+    "pickup_datetime":"2016/1/13 14:14",
+    "dropoff_datetime":"2016/1/13 14:24",
+    "passenger_count":1,
+    "trip_duration":626
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99327087,40.7430191 ]
+    },
+    "properties": {
+    "FIELD1":1170555,
+    "pickup_datetime":"2016/1/20 11:02",
+    "dropoff_datetime":"2016/1/20 11:06",
+    "passenger_count":1,
+    "trip_duration":244
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99654388,40.72199631 ]
+    },
+    "properties": {
+    "FIELD1":155594,
+    "pickup_datetime":"2016/1/9 3:19",
+    "dropoff_datetime":"2016/1/9 3:26",
+    "passenger_count":1,
+    "trip_duration":402
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95420074,40.76413345 ]
+    },
+    "properties": {
+    "FIELD1":795072,
+    "pickup_datetime":"2016/2/1 3:31",
+    "dropoff_datetime":"2016/2/1 3:40",
+    "passenger_count":1,
+    "trip_duration":541
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97807312,40.74879074 ]
+    },
+    "properties": {
+    "FIELD1":1457521,
+    "pickup_datetime":"2016/4/2 9:56",
+    "dropoff_datetime":"2016/4/2 10:09",
+    "passenger_count":6,
+    "trip_duration":768
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9753952,40.78974915 ]
+    },
+    "properties": {
+    "FIELD1":1387913,
+    "pickup_datetime":"2016/4/9 17:12",
+    "dropoff_datetime":"2016/4/9 17:21",
+    "passenger_count":2,
+    "trip_duration":527
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.87297821,40.77429962 ]
+    },
+    "properties": {
+    "FIELD1":1433529,
+    "pickup_datetime":"2016/6/19 12:41",
+    "dropoff_datetime":"2016/6/19 13:14",
+    "passenger_count":2,
+    "trip_duration":1952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.78193665,40.64472961 ]
+    },
+    "properties": {
+    "FIELD1":1255221,
+    "pickup_datetime":"2016/1/10 21:11",
+    "dropoff_datetime":"2016/1/10 21:54",
+    "passenger_count":2,
+    "trip_duration":2556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95655823,40.76707077 ]
+    },
+    "properties": {
+    "FIELD1":81703,
+    "pickup_datetime":"2016/4/25 8:29",
+    "dropoff_datetime":"2016/4/25 8:50",
+    "passenger_count":1,
+    "trip_duration":1270
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.86294556,40.76926422 ]
+    },
+    "properties": {
+    "FIELD1":1086058,
+    "pickup_datetime":"2016/3/30 21:55",
+    "dropoff_datetime":"2016/3/30 22:15",
+    "passenger_count":1,
+    "trip_duration":1240
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.95966339,40.77383041 ]
+    },
+    "properties": {
+    "FIELD1":21148,
+    "pickup_datetime":"2016/5/24 20:35",
+    "dropoff_datetime":"2016/5/24 20:47",
+    "passenger_count":2,
+    "trip_duration":692
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.01412201,40.71339798 ]
+    },
+    "properties": {
+    "FIELD1":1236133,
+    "pickup_datetime":"2016/3/10 20:08",
+    "dropoff_datetime":"2016/3/10 20:25",
+    "passenger_count":1,
+    "trip_duration":994
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97697449,40.74729919 ]
+    },
+    "properties": {
+    "FIELD1":731933,
+    "pickup_datetime":"2016/6/30 6:42",
+    "dropoff_datetime":"2016/6/30 6:47",
+    "passenger_count":1,
+    "trip_duration":349
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99139404,40.74979782 ]
+    },
+    "properties": {
+    "FIELD1":1036735,
+    "pickup_datetime":"2016/4/15 6:51",
+    "dropoff_datetime":"2016/4/15 6:56",
+    "passenger_count":1,
+    "trip_duration":271
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98633575,40.75652695 ]
+    },
+    "properties": {
+    "FIELD1":90750,
+    "pickup_datetime":"2016/1/22 16:54",
+    "dropoff_datetime":"2016/1/22 17:04",
+    "passenger_count":1,
+    "trip_duration":614
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98436737,40.76881027 ]
+    },
+    "properties": {
+    "FIELD1":787607,
+    "pickup_datetime":"2016/1/30 14:03",
+    "dropoff_datetime":"2016/1/31 12:42",
+    "passenger_count":4,
+    "trip_duration":81556
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.97763062,40.76311874 ]
+    },
+    "properties": {
+    "FIELD1":1409048,
+    "pickup_datetime":"2016/6/11 22:05",
+    "dropoff_datetime":"2016/6/11 22:11",
+    "passenger_count":1,
+    "trip_duration":364
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98548889,40.75283813 ]
+    },
+    "properties": {
+    "FIELD1":576355,
+    "pickup_datetime":"2016/2/7 16:03",
+    "dropoff_datetime":"2016/2/7 16:18",
+    "passenger_count":1,
+    "trip_duration":920
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99848938,40.73960876 ]
+    },
+    "properties": {
+    "FIELD1":767124,
+    "pickup_datetime":"2016/4/10 0:11",
+    "dropoff_datetime":"2016/4/10 0:13",
+    "passenger_count":1,
+    "trip_duration":99
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00244141,40.75006866 ]
+    },
+    "properties": {
+    "FIELD1":1283111,
+    "pickup_datetime":"2016/6/4 2:55",
+    "dropoff_datetime":"2016/6/4 3:09",
+    "passenger_count":5,
+    "trip_duration":832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0010376,40.72563171 ]
+    },
+    "properties": {
+    "FIELD1":817374,
+    "pickup_datetime":"2016/6/19 19:38",
+    "dropoff_datetime":"2016/6/19 20:00",
+    "passenger_count":2,
+    "trip_duration":1301
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99704742,40.74211884 ]
+    },
+    "properties": {
+    "FIELD1":1145241,
+    "pickup_datetime":"2016/6/19 9:49",
+    "dropoff_datetime":"2016/6/19 9:55",
+    "passenger_count":5,
+    "trip_duration":368
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9756012,40.75952911 ]
+    },
+    "properties": {
+    "FIELD1":971556,
+    "pickup_datetime":"2016/4/6 16:28",
+    "dropoff_datetime":"2016/4/6 16:35",
+    "passenger_count":1,
+    "trip_duration":436
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.99729156,40.72156143 ]
+    },
+    "properties": {
+    "FIELD1":1231125,
+    "pickup_datetime":"2016/2/4 11:21",
+    "dropoff_datetime":"2016/2/4 11:55",
+    "passenger_count":2,
+    "trip_duration":2057
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9805603,40.77994537 ]
+    },
+    "properties": {
+    "FIELD1":1372200,
+    "pickup_datetime":"2016/3/10 12:02",
+    "dropoff_datetime":"2016/3/10 12:14",
+    "passenger_count":1,
+    "trip_duration":688
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.00649261,40.7394104 ]
+    },
+    "properties": {
+    "FIELD1":36621,
+    "pickup_datetime":"2016/1/12 12:14",
+    "dropoff_datetime":"2016/1/12 12:25",
+    "passenger_count":1,
+    "trip_duration":646
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98787689,40.72872162 ]
+    },
+    "properties": {
+    "FIELD1":1364001,
+    "pickup_datetime":"2016/5/23 8:05",
+    "dropoff_datetime":"2016/5/23 8:09",
+    "passenger_count":1,
+    "trip_duration":256
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98883057,40.69236374 ]
+    },
+    "properties": {
+    "FIELD1":780773,
+    "pickup_datetime":"2016/3/10 21:59",
+    "dropoff_datetime":"2016/3/10 22:29",
+    "passenger_count":1,
+    "trip_duration":1772
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9450531,40.79167175 ]
+    },
+    "properties": {
+    "FIELD1":183796,
+    "pickup_datetime":"2016/3/13 0:48",
+    "dropoff_datetime":"2016/3/13 0:55",
+    "passenger_count":1,
+    "trip_duration":419
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.98789215,40.77503967 ]
+    },
+    "properties": {
+    "FIELD1":49256,
+    "pickup_datetime":"2016/4/19 12:20",
+    "dropoff_datetime":"2016/4/19 12:24",
+    "passenger_count":1,
+    "trip_duration":272
+    }
+  }
+]
+}

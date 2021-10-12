@@ -9,7 +9,7 @@ function createMap() {
   //create the map
   map = L.map('map', {
     center: [0, 0],
-    zoom: 1
+    zoom: 2
   });
 
   //add OSM base tilelayer
